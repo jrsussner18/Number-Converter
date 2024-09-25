@@ -1,0 +1,14 @@
+/Users/jakesussner/Desktop/C#/NumberConverter/bin/Debug/net8.0/NumberConverter
+/Users/jakesussner/Desktop/C#/NumberConverter/bin/Debug/net8.0/NumberConverter.deps.json
+/Users/jakesussner/Desktop/C#/NumberConverter/bin/Debug/net8.0/NumberConverter.runtimeconfig.json
+/Users/jakesussner/Desktop/C#/NumberConverter/bin/Debug/net8.0/NumberConverter.dll
+/Users/jakesussner/Desktop/C#/NumberConverter/bin/Debug/net8.0/NumberConverter.pdb
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/NumberConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/NumberConverter.AssemblyInfoInputs.cache
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/NumberConverter.AssemblyInfo.cs
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/NumberConverter.csproj.CoreCompileInputs.cache
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/NumberConverter.dll
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/refint/NumberConverter.dll
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/NumberConverter.pdb
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/NumberConverter.genruntimeconfig.cache
+/Users/jakesussner/Desktop/C#/NumberConverter/obj/Debug/net8.0/ref/NumberConverter.dll
